@@ -22,4 +22,5 @@ public abstract class Conta {
     public abstract void transferencia(double valor);
     public abstract void saque(double valor);
     public abstract void deposito(double valor);
+    public abstract void imprimirExtrato();
 }

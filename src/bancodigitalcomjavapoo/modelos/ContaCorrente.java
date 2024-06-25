@@ -53,5 +53,10 @@ public class ContaCorrente extends Conta {
     public void deposito(double valor) {
         
     }
+
+    @Override
+    public void imprimirExtrato() {
+        
+    }
     
 }

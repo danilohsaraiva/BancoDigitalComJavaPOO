@@ -24,17 +24,22 @@ public class ContaConjunta extends Conta{
 
     @Override
     public void transferencia(double valor) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        
     }
 
     @Override
     public void saque(double valor) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        
     }
 
     @Override
     public void deposito(double valor) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        
+    }
+
+    @Override
+    public void imprimirExtrato() {
+        
     }
     
 }

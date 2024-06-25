@@ -43,6 +43,11 @@ public class ContaPoupanca extends Conta{
     public void deposito(double valor) {
         
     }
+
+    @Override
+    public void imprimirExtrato() {
+       
+    }
     
     
 }
