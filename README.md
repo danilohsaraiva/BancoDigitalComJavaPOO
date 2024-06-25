@@ -10,6 +10,6 @@ Utilização de recursos que "simplicam" e diminuem o código, por sua reutiliza
 **Polimorfismo**<br>
 Um dos impactos mais significativos da herança, onde objetos que possuem com base o mesmo objeto "pai", se comportam de maneira diferente ao realizar uma mesma ação.<br>
 **Encapsulamento**<br>
-Esconde toda complexibilidade do código, deixando acesso somente ao necessário para realizar determinado processo, deixando o código seguro ao mascarar as regras de negócio por exemplo.
+Esconde toda complexidade do código, deixando acesso somente ao necessário para realizar determinado processo, deixando o código seguro ao mascarar as regras de negócio por exemplo.
 
 _"POO é essencial quando se pensa no desenvolvimento JAVA!"_
